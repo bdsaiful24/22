@@ -1,0 +1,28 @@
+.navbar-brand img{
+    width: 80px;
+}
+.custom-btn{
+    background: #8490ff;
+    color: #fff;
+    border: 1px solid transparent;
+}
+.custom-btn:hover{
+    background: #fff;
+    color: #8490ff;
+    border: 1px solid #8490ff;
+}
+.counter-section{
+    background: #8490ff;
+}
+.team-section .card img{
+    top: -50px;
+    width: 35%;
+}
+.contact-section .custom-btn{
+    background: #17a2b8;
+}
+.contact-section .custom-btn:hover{
+    color: #17a2b8;
+    border: 1px solid #17a2b8;
+    background: #fff;
+}
